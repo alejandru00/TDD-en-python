@@ -3,7 +3,7 @@
 ## Nombre completo: Alejandro Martínez Ronda
 ## Repositorio:
 - Usuario github: alejandru00
-- Link repositorio: [GitHub](https://github.com/alejandru00/TDD-en-python.git
+- Link repositorio: [GitHub](https://github.com/alejandru00/TDD-en-python.git)
 
 ------------------------------------------------
 
