@@ -3,7 +3,7 @@
 ## Nombre completo: Alejandro Martínez Ronda
 ## Repositorio:
 - Usuario github: alejandru00
-- Link repositorio: [Github:]
+- Link repositorio: [GitHub](https://github.com/alejandru00/TDD-en-python.git
 
 ------------------------------------------------
 
@@ -73,14 +73,3 @@ Ahora es tu turno. Debes implementar pruebas adicionales que verifiquen el compo
 Qué sucede cuando intentas calcular el factorial de 0.
 Qué sucede cuando intentas calcular el factorial de un número negativo.
 Después de escribir estas pruebas, ejecútalas y observa los resultados. Si alguna prueba falla, refactoriza la función factorial hasta que pase todas las pruebas.
-
-## Criterios de Evaluación
-_Comprensión del Proceso TDD:_ El estudiante debe demostrar que entiende el ciclo "Rojo-Verde-Refactor" de TDD, mostrando la capacidad de escribir una prueba que inicialmente falla, implementar la funcionalidad necesaria para pasar la prueba, y refactorizar el código si es necesario.
-
-_Implementación Correcta del Código:_ El código debe estar correctamente estructurado, cumplir con los requisitos especificados (como calcular el factorial), y pasar todas las pruebas unitarias proporcionadas.
-
-_Manejo de Casos Especiales:_ El estudiante debe ser capaz de identificar y manejar correctamente casos especiales, como el cálculo del factorial de 0 o de un número negativo, a través de pruebas y modificaciones en el código.
-
-_Uso de Herramientas de Pruebas:_ El estudiante debe ser capaz de utilizar pytest u otra herramienta de pruebas de manera efectiva para ejecutar sus pruebas y analizar los resultados.
-
-_Refactorización del Código:_ El estudiante debe mostrar habilidad para refactorizar el código de manera que sea más eficiente, legible o mantenible, sin cambiar su funcionalidad.
