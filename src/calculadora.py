@@ -1,7 +1,7 @@
 
 import math
 
-class ScientificCalculator:
+class Calculator:
     def suma(self, a, b):
         return a + b
 
