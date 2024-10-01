@@ -1,6 +1,6 @@
 # Taller 2: TDD en python.
 
-## Nombre completo: Alejandro Martínez Ronda
+## Alejandro Martínez Ronda
 ## Repositorio:
 - Usuario github: alejandru00
 - Link repositorio: [GitHub](https://github.com/alejandru00/TDD-en-python.git)
